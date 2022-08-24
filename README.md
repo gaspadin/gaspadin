@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gaspadin
-- 👀 I’m interested in Quantum Computing, Artificial Intelligence, etc.
+- 👀 I’m interested in Artificial Intelligence, Web Design, Maths and Creative Stuff
 - 🌱 I’m currently learning advanced Python concepts, cpp, and much more...
-- 💞️ I’m looking to collaborate on Python-Projects to get routine
 - :guitar: I'd like to get back to music production in the future
 - 🎥 LOTR >> Star Wars
 - :bike: I dream of a titanium gravel bike
