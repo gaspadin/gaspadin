@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaspadin
-- 👀 I’m interested in Artificial Intelligence, Web Design, Maths and Creative Stuff
-- 🌱 I’m currently learning advanced Python concepts, cpp, and much more...
+- 👀 I’m interested in Artificial Intelligence, Numerical Mathmatics and Creative Stuff
+- 🌱 Working on my masters degree
 - 🎥 LOTR >> Star Wars
 - ✨ Gavin Harrison is the best drummer, John Petrucci is not the best guitar player
 
